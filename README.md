@@ -83,11 +83,11 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=lisshporta&show_icons=true&theme=responsive" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=lisshporta&count_private=true&show_icons=true&theme=dark" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisshporta&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lisshporta&layout=compact&theme=dark" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
