@@ -24,7 +24,7 @@ class About extends Me
 
     public function getFutureGoal(): string
     {
-        return 'To contribute to open source.';
+        return 'Becoming a skilled and valuable member of the development team.';
     }
 }
 ```
