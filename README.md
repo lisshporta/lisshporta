@@ -5,17 +5,30 @@
 
 ### <div align="center">I'm Lis, a backend developer 👨‍💻 self teaching since 2020 🚀</div>  
   
+```php
+<?php
 
-- 🔭 I’m currently working on [carGarage](https://github.com/lisshporta/carGarage)  
-  
+namespace LisShporta;
 
-- 🌱 I’m currently learning Laravel and PHP  
-  
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'AlbiSmart',
+                'position' => 'JuniorDeveloper'         
+            ]
+        ];
+    }
 
-- ❓ Ask me about anything   
-  
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source.';
+    }
+}
+```
 
-- ⚡ Fun fact: I use tabs over spaces  
   
 
 <br/>  
