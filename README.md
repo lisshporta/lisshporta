@@ -109,14 +109,16 @@ class About extends Me
 <br/>  
 
 ## Top Repositories
-<table><tr><td valign="top" width="55%">
+<table><tr><td valign="top" width="50%">
 
 
 <a href="https://github.com/lisshporta/cargarage">
-  <img align="center" src="https://github-readme-stats-1-eta.vercel.app/api/pin/?username=lisshporta&repo=cargarage&theme=dark" />
+  <img align="left" style="width: 100%" src="https://github-readme-stats-1-eta.vercel.app/api/pin/?username=lisshporta&repo=cargarage&theme=dark" />
 </a>
+</td><td valign="top" width="50%">
+  
 <a href="https://github.com/lisshporta/laragigs">
-  <img align="center" src="https://github-readme-stats-1-eta.vercel.app/api/pin/?username=lisshporta&repo=laragigs&theme=dark" />
+  <img align="left" style="width: 100%" src="https://github-readme-stats-1-eta.vercel.app/api/pin/?username=lisshporta&repo=laragigs&theme=dark" />
 </a>
 </td></tr></table>  
   
