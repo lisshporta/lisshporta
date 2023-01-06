@@ -3,32 +3,10 @@
 </div>  
   
 
-### <div align="center">I'm Lis, a backend developer 👨‍💻 self teaching since 2020 🚀</div>  
+### <div align="left">I'm Lis, a backend developer 👨‍💻 self teaching since 2020 🚀</div>  
 <br/>
   
-```php
-<?php
-
-namespace LisShporta;
-
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'AlbiSmart',
-                'position' => 'JuniorDeveloper'         
-            ]
-        ];
-    }
-
-    public function getFutureGoal(): string
-    {
-        return 'Becoming a skilled and valuable member of the development team.';
-    }
-}
-```
+<img src="./coderman.gif" />
 
   
 
