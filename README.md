@@ -98,8 +98,8 @@
 </a>
 </td><td valign="top" width="50%">
   
-<a href="https://github.com/lisshporta/Rest-API">
-  <img align="left" style="width: 100%" src="https://github-readme-stats-1-eta.vercel.app/api/pin/?username=lisshporta&repo=Rest-API&theme=dark" />
+<a href="https://github.com/lisshporta/Managment-Tool">
+  <img align="left" style="width: 100%" src="https://github-readme-stats-1-eta.vercel.app/api/pin/?username=lisshporta&repo=Managment-Tool&theme=dark" />
 </a>
 </td></tr></table>  
   
