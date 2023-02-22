@@ -72,7 +72,7 @@
 
 </td><td valign="top" width="45%">
 
-<img src="https://github-readme-stats-1-eta.vercel.app/api/top-langs/?username=lisshporta&layout=compact&theme=dark" align="left" style="width: 100%" />
+<img src="https://github-readme-stats-1-eta.vercel.app/api/top-langs/?username=lisshporta&layout=compact&theme=dark&langs_count=6" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
