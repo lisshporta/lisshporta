@@ -46,9 +46,6 @@
 <a href="https://dev.to/lisshporta" target="_blank">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://github.com/lisshporta" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/lisshporta" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -81,12 +78,16 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lisshporta&&style=flat-square" align="center" />
+  <a href="https://www.buymeacoffee.com/lisshporta" target="_blank" style="display: inline-block;">
+  <img
+      src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+      align="center"
+  />
+</a></div>
 </div>  
   
 
 <br/>  
-
-
 <br />
 
 ----
