@@ -78,12 +78,12 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=lisshporta&&style=flat-square" align="center" />
-  <a href="https://www.buymeacoffee.com/lisshporta" target="_blank" style="display: inline-block;">
+<!--   <a href="https://www.buymeacoffee.com/lisshporta" target="_blank" style="display: inline-block;">
   <img
       src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
       align="center"
   />
-</a></div>
+</a></div> -->
 </div>  
   
 
